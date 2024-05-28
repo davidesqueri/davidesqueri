@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @learningDane
 - I'm a professional photographer based near Florence, Italy.
-- I'm attending the Software Engineering course at the university of Pisa @unipi.
+- I'm attending the Computer Engineering course at the university of Pisa @unipi.
 - 📫 You can reach me at davidesqueri02gmail.com
