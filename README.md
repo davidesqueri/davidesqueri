@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Davide%20Squeri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%E2%86%92%20Robotics%20%26%20Automation&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://github.com/davidesqueri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hardware+%C2%B7+Low-level+%C2%B7+Automation;Building+toward+marine+robotics+%F0%9F%8C%8A;Embedded+systems+%26+ROS+2+enthusiast+%F0%9F%A4%96" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hardware+%C2%B7+Low-level+%C2%B7+Automation;Building+toward+marine+robotics+%F0%9F%8C%8A;Embedded+systems+%E2%86%92+heading+to+ROS+2+%F0%9F%A4%96" alt="typing animation" />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ I love anything close to the metal: **hardware, low-level programming, embedded 
 
 | | |
 |---|---|
-| 🌊 **Now** | Starting my bachelor's thesis on **MOOS-IvP**, marine robotics autonomy |
+| 🌊 **Now** | About to start my bachelor's thesis on **MOOS-IvP**, marine robotics autonomy |
 | 🎓 **Studying** | Master's in Robotics and Automation Engineering |
 | 🚀 **Next up** | ![ROS](https://img.shields.io/badge/ROS_/_ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) |
 
