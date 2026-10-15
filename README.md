@@ -27,7 +27,7 @@ I'm interested in **hardware, low-level programming, and automation** — especi
 - Full focus on my studies and thesis right now
 - Always happy to talk about low-level stuff, embedded, or robotics, feel free to reach out
 
-## Persona Webpage
+## Personal Webpage
 
 On my personal website **[davidesqueri.github.io](https://davidesqueri.github.io)** you can find more info about me and my **lecture notes** (*dispense*).
 
